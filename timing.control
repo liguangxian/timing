@@ -1,0 +1,6 @@
+# timing extension
+
+comment = 'only delrelation_record publication'
+default_version = '1.0'
+module_pathname = '$libdir/timing'
+relocatable = true
